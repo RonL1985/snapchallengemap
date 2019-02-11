@@ -1,4 +1,4 @@
-// Durations are in minutes
+// Durations
 
 var tasks = [
 
